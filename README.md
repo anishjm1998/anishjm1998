@@ -1,73 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Anish John Moothedam  
 
-# 👋 Hey there! I'm Anish John Moothedam  
-
-🚀 **Software Developer | Tech Enthusiast | Open-Source Contributor**  
-
-I am a passionate software developer with experience in **full-stack development, data analytics, and DevOps**. I enjoy solving complex problems, building scalable applications, and continuously learning new technologies.
+I’m a software developer with a strong foundation in **full-stack development** and **data analytics**. Currently, I'm pursuing my **Master of Applied Computing** at the **University of Windsor, Canada**, and completing a **four-month software development internship**. I’ll be graduating in **May 2025** and actively looking for **full-time opportunities starting from May 2025**.  
 
 ---
 
-## 🛠️ **Tech Stack**  
+## **🛠️ Technical Skills**  
 
-### **Languages**  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### **Programming Languages**  
+C, C++, Java, Python, JavaScript, TypeScript, Shell, PHP, Bash  
 
-### **Web & Frameworks**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+### **Web & Application Development**  
+React, Node.js, Express, Django, Flask, HTML, CSS  
 
 ### **Databases**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+MySQL, MongoDB, PostgreSQL  
 
-### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+### **Development & Collaboration Tools**  
+GitHub, Docker, Selenium, Figma, VSCode  
 
----
+### **Data Analytics & Visualization**  
+MS Excel, Tableau, Power BI, Power Automate  
 
-## 📚 **Projects**
-🚀 **[Mind Palace (Idea Submission Platform)](https://github.com/anishjm1998/mind-palace)**  
-🔹 *Tools:* React, Node.js, Express, PostgreSQL, Python, BART NLP, Docker  
-🔹 Built a collaborative idea submission platform for **500+ employees** with **NLP-powered** search and tagging.  
-🔹 Designed a **microservices** architecture and containerized the app using **Docker** for scalability.  
+### **Project Management & Workflow**  
+Jira, ServiceNow, Slack  
 
-📦 **[Samaritan Connect (Resource Donation Platform)](https://github.com/anishjm1998/samaritan-connect)**  
-🔹 *Tools:* Django, React, PostgreSQL, Tailwind CSS, Google Maps API  
-🔹 Developed a **surplus donation platform** connecting NGOs with local donors.  
-🔹 Integrated **geolocation filtering** with PostGIS & **Google Maps API** for efficient resource distribution.  
-
-📊 **[Employee Attrition Prediction](https://github.com/anishjm1998/EmployeeAttritionPrediction)**  
-🔹 *Tools:* Python, Jupyter Notebook, Tableau, PowerBI  
-🔹 Built a **97% accurate ML model** predicting employee attrition using **Random Forest & XGBoost**.  
-🔹 Developed **interactive dashboards** in **Tableau & PowerBI** for HR analytics.  
+### **Operating Systems**  
+Windows, Unix/Linux  
 
 ---
 
-## 🌍 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishjohnm19/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/anishjm1998/)  
+## **📬 Connect with Me**  
+
+📍 **Location**: Windsor, Ontario, Canada  
 📧 **Email**: moothed@uwindsor.ca  
+🔗 **LinkedIn**: [linkedin.com/in/anishjohnm19](https://www.linkedin.com/in/anishjohnm19/)  
+💻 **GitHub**: [github.com/anishjm1998](https://github.com/anishjm1998/)  
 
 ---
 
-## 📊 **GitHub Stats**
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishjm1998&show_icons=true&theme=radical)  
+## **📊 Most Used Languages**  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishjm1998&layout=compact&theme=radical)  
 
 ---
-
-✨ **"Code, Debug, Repeat!"** 🚀  
