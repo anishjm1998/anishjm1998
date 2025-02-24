@@ -2,11 +2,11 @@
 
 **Software Developer | Sports Geek | Potterhead**  
 
-I’m a Software Developer with a passion for **full-stack development** and **data analytics**. Currently, I'm pursuing my **Master of Applied Computing** at the **University of Windsor, Canada**, and completing a **4-month Software Development Internship**. I’ll be graduating in **May 2025** and actively looking for **full-time opportunities starting from May 2025**. 
+I’m a **Software Developer** with a passion for **full-stack development** and **data analytics**. Currently, I'm pursuing my **Master of Applied Computing** at the **University of Windsor, Canada**, and completing a **4-month Software Development Internship**. I’ll be graduating in **May 2025** and actively looking for **full-time opportunities starting from May 2025**. 
 
 ---
 
-## **My Coding Tools**  
+## **🛠 My Coding Tools**  
 
 <div align="left">
   <!-- Languages -->
@@ -38,14 +38,13 @@ I’m a Software Developer with a passion for **full-stack development** and **d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
 
   <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
 ---
 
 ## 📬 Connect with Me  
