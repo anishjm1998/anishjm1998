@@ -1,40 +1,41 @@
-# 👋 Hi, I'm Anish John Moothedam  
+# Hi, I'm Anish John Moothedam 
 
-I’m a software developer with a strong foundation in **full-stack development** and **data analytics**. Currently, I'm pursuing my **Master of Applied Computing** at the **University of Windsor, Canada**, and completing a **four-month software development internship**. I’ll be graduating in **May 2025** and actively looking for **full-time opportunities starting from May 2025**.  
-
----
-
-## **🛠️ Technical Skills**  
-
-### **Programming Languages**  
-C, C++, Java, Python, JavaScript, TypeScript, Shell, PHP, Bash  
-
-### **Web & Application Development**  
-React, Node.js, Express, Django, Flask, HTML, CSS  
-
-### **Databases**  
-MySQL, MongoDB, PostgreSQL  
-
-### **Development & Collaboration Tools**  
-GitHub, Docker, Selenium, Figma, VSCode  
-
-### **Data Analytics & Visualization**  
-MS Excel, Tableau, Power BI, Power Automate  
-
-### **Project Management & Workflow**  
-Jira, ServiceNow, Slack  
-
-### **Operating Systems**  
-Windows, Unix/Linux  
+I’m a passionate Software Developer with a strong foundation in **Full-Stack Development** and **Data Analytics**. Currently, I'm pursuing my **Master of Applied Computing** at the **University of Windsor, Canada**, and completing a **4-month Software Development Internship**. I’ll be graduating in **May 2025** and actively looking for **full-time opportunities starting from May 2025**.  
 
 ---
 
-## **📬 Connect with Me**  
+## **I code with**  
 
-📍 **Location**: Windsor, Ontario, Canada  
-📧 **Email**: moothed@uwindsor.ca  
-🔗 **LinkedIn**: [linkedin.com/in/anishjohnm19](https://www.linkedin.com/in/anishjohnm19/)  
-💻 **GitHub**: [github.com/anishjm1998](https://github.com/anishjm1998/)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
+
+---
+
+## **Connect with Me**  
+
+**Email**: moothed@uwindsor.ca  
+**LinkedIn**: [linkedin.com/in/anishjohnm19](https://www.linkedin.com/in/anishjohnm19/)  
 
 ---
 
