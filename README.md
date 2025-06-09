@@ -52,6 +52,6 @@ I’m a **Software Developer** with a passion for **full-stack development** and
 
 🔗 **LinkedIn:** [linkedin.com/in/anishjohnm19](https://www.linkedin.com/in/anishjohnm19/)  
 🔗 **GitHub:** [github.com/anishjm1998](https://github.com/anishjm1998/)  
-🔗 **My Portfolio:** [[github.com/anishjm1998](https://github.com/anishjm1998/) ](https://anishjm1998.github.io/ajm-portfolio/) 
+🔗 **My Portfolio:** https://anishjm1998.github.io/ajm-portfolio/
 
 ---
