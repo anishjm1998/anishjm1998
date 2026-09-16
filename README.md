@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anish John Moothedam
+## 👋 Hi, I'm Anish John Moothedam
 
 **AI Engineer | Software Developer | Full Stack Developer**
 
@@ -9,8 +9,6 @@ I recently completed my Master's in Applied Computing at the University of Winds
 I enjoy building things from the ground up and solving problems at the intersection of software engineering and AI. I'm particularly interested in AI agents, LLM applications, RAG, and building practical systems around emerging AI technologies.
 
 Outside of code, I'm usually following just about every sport, playing chess, falling into a trivia rabbit hole, or getting unnecessarily interested in geography, languages, and different cultures.
-
-**Full Time Overthinker | Part Time Sports Geek**
 
 ---
 
@@ -26,21 +24,17 @@ Outside of code, I'm usually following just about every sport, playing chess, fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
 
-  <!-- AI Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" alt="openai logo" />
-  <img width="12" />
+  <img width="20" />
 
   <!-- Backend & Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
+
+  <img width="20" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -48,14 +42,19 @@ Outside of code, I'm usually following just about every sport, playing chess, fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
 
-  <!-- Development Tools -->
+  <img width="20" />
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 
 </div>
+
+**AI:** LLMs · AI Agents · RAG · Multi Agent Systems · Claude Code
 
 ---
 
