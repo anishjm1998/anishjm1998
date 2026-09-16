@@ -4,11 +4,13 @@
 
 I'm a Software Engineer with 4+ years of experience building backend systems, full stack applications, and AI powered products.
 
-I enjoy building things from the ground up and solving problems at the intersection of software engineering and AI. Recently, I've been working with AI agents, simulation environments, LLM based applications, and intelligent workflows.
+I recently completed my Master's in Applied Computing at the University of Windsor, and over the past year I've been working on AI agents, simulation environments, LLM based applications, and intelligent workflows.
 
-Currently building systems around AI agents, LLMs, and software infrastructure, while continuing to explore new ways of combining AI with practical software engineering.
+I enjoy building things from the ground up and solving problems at the intersection of software engineering and AI. I'm particularly interested in AI agents, LLM applications, RAG, and building practical systems around emerging AI technologies.
 
 Outside of code, I'm usually following just about every sport, playing chess, falling into a trivia rabbit hole, or getting unnecessarily interested in geography, languages, and different cultures.
+
+**Full Time Overthinker | Part Time Sports Geek**
 
 ---
 
@@ -26,8 +28,8 @@ Outside of code, I'm usually following just about every sport, playing chess, fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
 
-  <!-- AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <!-- AI Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" height="40" alt="openai logo" />
   <img width="12" />
 
   <!-- Backend & Frontend -->
@@ -48,14 +50,10 @@ Outside of code, I'm usually following just about every sport, playing chess, fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
-  <!-- Cloud & Infrastructure -->
+  <!-- Development Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 
 </div>
 
